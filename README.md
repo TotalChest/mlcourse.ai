@@ -1,2 +1,2 @@
 # mlcourse.ai
-Homework practice for mlcource.ai
+Practice work for mlcource.ai
