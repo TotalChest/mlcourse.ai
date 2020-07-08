@@ -5,7 +5,7 @@ Practice work for mlcource.ai
 |Week|Topic|Status|
 |----|-----|------|
 |1|Exploratory Data Analysis|Done|
-|2|Visual Data Analysis||
+|2|Visual Data Analysis|Done|
 |3|Classification, Decision Trees and k Nearest Neighbors||
 |4|Linear Classification and Regression||
 |5|Bagging and Random Forest||
