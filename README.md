@@ -7,7 +7,7 @@ Practice work for mlcource.ai
 |1|Exploratory Data Analysis|Done|
 |2|Visual Data Analysis|Done|
 |3|Classification, Decision Trees and k Nearest Neighbors|Done|
-|4|Linear Classification and Regression||
+|4|Linear Classification and Regression|Done|
 |5|Bagging and Random Forest||
 |6|Feature Engineering and Feature Selection||
 |7|Unsupervised Learning: Principal Component Analysis and Clustering||
